@@ -1,4 +1,4 @@
-# -5438-People-Infrared-Face-Recognition-Data
+# 5438-People-Infrared-Face-Recognition-Data
 https://www.datatang.ai/datasets/1134
 ## Description
 5,438 People – Infrared Face Recognition Data. The collecting scenes of this dataset include indoor scenes and outdoor scenes. The data includes male and female. The age distribution ranges from child to the elderly, the young people and the middle aged are the majorities. The collecting device is realsense D453i. The data diversity includes multiple age periods, multiple facial postures, multiple scenes. The data can be used for tasks such as infrared face recognition.
