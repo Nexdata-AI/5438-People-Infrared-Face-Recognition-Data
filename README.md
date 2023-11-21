@@ -32,4 +32,4 @@ label the person – ID, race, gender, age, facial action, collecting scene
 based on the accuracy of the actions, the accuracy exceeds 97%; the accuracy of label annotation is not less than 97%
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
